@@ -1,0 +1,16 @@
+.heading1 {
+    font-style:unset;
+    color:aqua;
+}
+.heading2 {
+    font-style:unset;
+    color:aquamarine;
+
+}
+.heading3 {
+    font-style:unset;
+    color:beige;
+}
+p {
+    font-family:sans-serif
+}
